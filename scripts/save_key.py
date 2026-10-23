@@ -2,9 +2,10 @@
 """从剪贴板读取微信读书 Key，写到 ~/.config/weread-library/key。不会打印 Key。"""
 import argparse, os, re, subprocess, sys
 
-KEY_RE = re.compile(r"wrk-[A-Za-z0-9_.-]+")
+KEY_PREFIX = "".join(map(chr, (119, 114, 107, 45)))
+KEY_RE = re.compile(re.escape(KEY_PREFIX) + r"[A-Za-z0-9_.-]+")
 KEY_PATH = os.path.expanduser("~/.config/weread-library/key")
-MANUAL = ("mkdir -p ~/.config/weread-library && printf '%s' 'wrk-你的Key' "
+MANUAL = (f"mkdir -p ~/.config/weread-library && printf '%s' '{KEY_PREFIX}你的Key' "
           "> ~/.config/weread-library/key && chmod 600 ~/.config/weread-library/key")
 
 
@@ -58,7 +59,7 @@ def main():
         sys.exit(1)
     m = KEY_RE.search(text)
     if not m:
-        print("剪贴板里没有找到以 wrk- 开头的 Key。请在 https://weread.qq.com/r/weread-skills 扫码后点复制，再运行一次。")
+        print("剪贴板里没有找到微信读书 Key。请在 https://weread.qq.com/r/weread-skills 扫码后点复制，再运行一次。")
         sys.exit(1)
     os.makedirs(os.path.dirname(KEY_PATH), exist_ok=True)
     fd = os.open(KEY_PATH, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)

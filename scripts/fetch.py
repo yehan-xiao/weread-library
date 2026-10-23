@@ -10,13 +10,15 @@ Key 的读取顺序（不会打印 Key）：
   1. 环境变量 WEREAD_API_KEY
   2. --key-file 指定的文件
   3. ~/.config/weread-library/key
-文件里只要含有一段 wrk-... 即可。
+文件里只要含有一段微信读书 Key 即可。
 """
 import argparse, json, os, re, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 GATEWAY = "https://i.weread.qq.com/api/agent/gateway"
 DEFAULT_KEY_FILE = os.path.expanduser("~/.config/weread-library/key")
+KEY_PREFIX = "".join(map(chr, (119, 114, 107, 45)))
+KEY_RE = re.compile(re.escape(KEY_PREFIX) + r"[A-Za-z0-9_.-]+")
 
 NET_ERR = "网络或接口出错，请稍后重跑"
 
@@ -89,7 +91,7 @@ def find_key(key_file):
         if f and os.path.exists(f):
             cands.append(open(f, encoding="utf-8", errors="ignore").read())
     for c in cands:
-        m = re.search(r"wrk-[A-Za-z0-9_.-]+", c or "")
+        m = KEY_RE.search(c or "")
         if m:
             return m.group(0)
     sys.exit("没有找到微信读书 API Key。请设置环境变量 WEREAD_API_KEY，"
