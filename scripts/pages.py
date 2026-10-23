@@ -44,7 +44,7 @@ def thought_md(i):
     """Corvio 的引用块一行一块、相邻的会连成一片，所以引用块里只放原文，你写的话和日期跟在下面一行。"""
     meta = f"　{gray(dshort(i['time']))}" if i.get("time") else ""
     return ([f"> {one(i['abstract'])}", ""] if i.get("abstract") else []) + \
-        [f'**<span style="color:#9a6b3f">你写道</span>**：{one(i["text"])}{meta}', ""]
+        [f'**<span style="color:#be684f">你写道</span>**：{one(i["text"])}{meta}', ""]
 
 
 def highlight_md(i, best=False):
