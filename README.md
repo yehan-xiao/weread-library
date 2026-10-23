@@ -10,14 +10,10 @@
 - **每本书一页**：开头是一张藏书票，印着你在这本书里最舍不得的那句话。往下是 AI 帮你写的一小段回顾，再往下是你所有的划线和想法，按章节排好，翻起来像自己的读书笔记本。
 - **随时翻，随时加**：以后在微信读书里读了新书、划了新线，说一句「同步一下」，新笔记就会自动放进对应的书里。
 
-<p align="center"><img src="assets/plate.jpg" width="72%" alt="藏书票：每本书一张，印着你最舍不得的那句话"></p>
-
 <p align="center">
   <img src="assets/book.png" width="49%" alt="一本书的页面：藏书票、基本信息和 AI 回顾">
   <img src="assets/notes.png" width="49%" alt="按章节整理的笔记：你最舍不得的那句会被高亮">
 </p>
-
-<p align="center"><img src="assets/overview.png" width="50%" alt="总览页：你的阅读数据和整个书架"></p>
 
 ## 它还能让 AI 读懂你读过的书
 
