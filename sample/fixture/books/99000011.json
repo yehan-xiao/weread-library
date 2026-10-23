@@ -1,0 +1,575 @@
+{
+  "bookId": "99000011",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000011",
+    "title": "只写给自己的夜航日志",
+    "author": "裴静深",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000011.jpg",
+    "intro": "一本不准备给别人看的夜航记录。",
+    "category": "文学-手记",
+    "publisher": "夜航私印社",
+    "publishTime": "2020-01-12 00:00:00",
+    "isbn": "978-7-990-00011-0",
+    "newRating": 655,
+    "newRatingCount": 4,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 2,
+      "fair": 0,
+      "poor": 2,
+      "deepV": 0,
+      "recent": 655,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000011",
+    "readerLink": "https://example.invalid/reader/99000011"
+  },
+  "progress": {
+    "bookId": "99000011",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 77,
+      "readingTime": 51007,
+      "recordReadingTime": 51007,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 102,
+      "chapterIdx": 2,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000011",
+      "title": "只写给自己的夜航日志",
+      "author": "裴静深",
+      "cover": "https://example.invalid/cover/99000011.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "深夜的值班"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "不寄出的页"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "海图边"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "只有自己看见"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000011001",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "夜航的句子不必靠岸，它只要自己还看得见。",
+        "range": "121-161",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011002",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "看到夜航灯的时候，我放慢了翻页。",
+        "range": "658-690",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011003",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "看到航海日志的时候，我放慢了翻页。",
+        "range": "907-941",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011004",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "看到只写给自己的句子的时候，我放慢了翻页。",
+        "range": "1178-1220",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011005",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "看到甲板上的风的时候，我放慢了翻页。",
+        "range": "1423-1459",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011006",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "看到没有收件人的段落的时候，我放慢了翻页。",
+        "range": "1694-1736",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011007",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "看到凌晨的海的时候，我放慢了翻页。",
+        "range": "1948-1982",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011008",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710763200,
+        "markText": "看到罗盘的时候，我放慢了翻页。",
+        "range": "2203-2233",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011009",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1618833600,
+        "markText": "看到未公开的页边的时候，我放慢了翻页。",
+        "range": "2469-2507",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011010",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715342400,
+        "markText": "看到黑蓝色的水的时候，我放慢了翻页。",
+        "range": "2731-2767",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011011",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1654948800,
+        "markText": "看到值班的安静的时候，我放慢了翻页。",
+        "range": "2983-3019",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011012",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720785600,
+        "markText": "看到折叠起来的纸的时候，我放慢了翻页。",
+        "range": "3242-3280",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011013",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1691928000,
+        "markText": "看到不被转发的话的时候，我放慢了翻页。",
+        "range": "3510-3548",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011014",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726315200,
+        "markText": "夜航灯写得很轻，我还是划上了。",
+        "range": "3765-3795",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011015",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760529600,
+        "markText": "航海日志写得很轻，我还是划上了。",
+        "range": "4025-4057",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011016",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710590400,
+        "markText": "只写给自己的句子写得很轻，我还是划上了。",
+        "range": "4288-4328",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011017",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1618660800,
+        "markText": "甲板上的风写得很轻，我还是划上了。",
+        "range": "4558-4592",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011018",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1716033600,
+        "markText": "没有收件人的段落写得很轻，我还是划上了。",
+        "range": "4811-4851",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011019",
+        "bookId": "99000011",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655640000,
+        "markText": "凌晨的海写得很轻，我还是划上了。",
+        "range": "5067-5099",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011020",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1720612800,
+        "markText": "罗盘写得很轻，我还是划上了。",
+        "range": "122-150",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011021",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1691755200,
+        "markText": "未公开的页边写得很轻，我还是划上了。",
+        "range": "125-161",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011022",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1726142400,
+        "markText": "黑蓝色的水写得很轻，我还是划上了。",
+        "range": "122-156",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011023",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1760356800,
+        "markText": "值班的安静写得很轻，我还是划上了。",
+        "range": "386-420",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011024",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1710417600,
+        "markText": "折叠起来的纸写得很轻，我还是划上了。",
+        "range": "388-424",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011025",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1618488000,
+        "markText": "不被转发的话写得很轻，我还是划上了。",
+        "range": "383-419",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011026",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1715860800,
+        "markText": "我在夜航灯这里停住，是因为它没有把话说死。",
+        "range": "645-687",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011027",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1655467200,
+        "markText": "我在航海日志这里停住，是因为它没有把话说死。",
+        "range": "642-686",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011028",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1721304000,
+        "markText": "我在只写给自己的句子这里停住，是因为它没有把话说死。",
+        "range": "652-704",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011029",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1692446400,
+        "markText": "我在甲板上的风这里停住，是因为它没有把话说死。",
+        "range": "911-957",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011030",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1725969600,
+        "markText": "我在没有收件人的段落这里停住，是因为它没有把话说死。",
+        "range": "900-952",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011031",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1760184000,
+        "markText": "我在凌晨的海这里停住，是因为它没有把话说死。",
+        "range": "901-945",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011032",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1710244800,
+        "markText": "我在罗盘这里停住，是因为它没有把话说死。",
+        "range": "1178-1218",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011033",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1618315200,
+        "markText": "我在未公开的页边这里停住，是因为它没有把话说死。",
+        "range": "1165-1213",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011034",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1715688000,
+        "markText": "我在黑蓝色的水这里停住，是因为它没有把话说死。",
+        "range": "1176-1222",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011035",
+        "bookId": "99000011",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1655294400,
+        "markText": "我在值班的安静这里停住，是因为它没有把话说死。",
+        "range": "1426-1472",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011036",
+        "bookId": "99000011",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1721131200,
+        "markText": "我在折叠起来的纸这里停住，是因为它没有把话说死。",
+        "range": "1426-1474",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000011037",
+        "bookId": "99000011",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1692273600,
+        "markText": "我在不被转发的话这里停住，是因为它没有把话说死。",
+        "range": "1436-1484",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000011",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "深夜的值班",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "不寄出的页",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "海图边",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "只有自己看见",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000011001",
+      "review": {
+        "reviewId": "RV99000011001",
+        "bookId": "99000011",
+        "content": "我把这页留在私密里，因为它还没有准备好被看见。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "深夜的值班",
+        "range": "389-435",
+        "type": 1,
+        "abstract": "有些句子写出之前就知道不该公开。"
+      }
+    },
+    {
+      "reviewId": "RV99000011002",
+      "review": {
+        "reviewId": "RV99000011002",
+        "bookId": "99000011",
+        "content": "海图可以折起来，笔记不必跟着公开。",
+        "createTime": 1726660800,
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "chapterTitle": "不寄出的页",
+        "range": "1696-1730",
+        "type": 1
+      }
+    }
+  ]
+}

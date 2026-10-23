@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "totalBookCount": 12,
+    "totalNoteCount": 196
+  },
+  "books": [
+    {
+      "bookId": "99000001",
+      "book": {
+        "bookId": "99000001",
+        "deepLink": "https://example.invalid/book/99000001",
+        "readerLink": "https://example.invalid/reader/99000001",
+        "title": "窗台上的慢信：给远方的十二封散文",
+        "author": "林晚晴",
+        "cover": "https://example.invalid/cover/99000001.jpg",
+        "format": "epub",
+        "publishTime": "2019-04-18 00:00:00",
+        "finished": 1
+      },
+      "reviewCount": 4,
+      "bookmarkCount": 20,
+      "noteCount": 24,
+      "markedStatus": 0,
+      "readingProgress": 100,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000002",
+      "book": {
+        "bookId": "99000002",
+        "deepLink": "https://example.invalid/book/99000002",
+        "readerLink": "https://example.invalid/reader/99000002",
+        "title": "把一天折成四段",
+        "author": "周予安",
+        "cover": "https://example.invalid/cover/99000002.jpg",
+        "format": "epub",
+        "publishTime": "2021-06-02 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 4,
+      "bookmarkCount": 16,
+      "noteCount": 20,
+      "markedStatus": 0,
+      "readingProgress": 86,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000003",
+      "book": {
+        "bookId": "99000003",
+        "deepLink": "https://example.invalid/book/99000003",
+        "readerLink": "https://example.invalid/reader/99000003",
+        "title": "会议室里的空白椅子",
+        "author": "沈知衡",
+        "cover": "https://example.invalid/cover/99000003.jpg",
+        "format": "epub",
+        "publishTime": "2020-09-14 00:00:00",
+        "finished": 1
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 14,
+      "noteCount": 16,
+      "markedStatus": 0,
+      "readingProgress": 99,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000004",
+      "book": {
+        "bookId": "99000004",
+        "deepLink": "https://example.invalid/book/99000004",
+        "readerLink": "https://example.invalid/reader/99000004",
+        "title": "潮声停在第三章：岸上的人先走了",
+        "author": "顾南枝",
+        "cover": "https://example.invalid/cover/99000004.jpg",
+        "format": "epub",
+        "publishTime": "2018-07-21 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 12,
+      "noteCount": 14,
+      "markedStatus": 0,
+      "readingProgress": 64,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000005",
+      "book": {
+        "bookId": "99000005",
+        "deepLink": "https://example.invalid/book/99000005",
+        "readerLink": "https://example.invalid/reader/99000005",
+        "title": "情绪的抽屉没有上锁",
+        "author": "苏小满",
+        "cover": "https://example.invalid/cover/99000005.jpg",
+        "format": "epub",
+        "publishTime": "2022-03-11 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 10,
+      "noteCount": 12,
+      "markedStatus": 0,
+      "readingProgress": 42,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000006",
+      "book": {
+        "bookId": "99000006",
+        "deepLink": "https://example.invalid/book/99000006",
+        "readerLink": "https://example.invalid/reader/99000006",
+        "title": "河边的旧车站",
+        "author": "陈暮白",
+        "cover": "https://example.invalid/cover/99000006.jpg",
+        "format": "epub",
+        "publishTime": "2016-05-19 00:00:00",
+        "finished": 1
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 9,
+      "noteCount": 11,
+      "markedStatus": 0,
+      "readingProgress": 98,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000007",
+      "book": {
+        "bookId": "99000007",
+        "deepLink": "https://example.invalid/book/99000007",
+        "readerLink": "https://example.invalid/reader/99000007",
+        "title": "问号先放在口袋里",
+        "author": "叶知微",
+        "cover": "https://example.invalid/cover/99000007.jpg",
+        "format": "epub",
+        "publishTime": "2017-10-08 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 7,
+      "noteCount": 9,
+      "markedStatus": 0,
+      "readingProgress": 73,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000008",
+      "book": {
+        "bookId": "99000008",
+        "deepLink": "https://example.invalid/book/99000008",
+        "readerLink": "https://example.invalid/reader/99000008",
+        "title": "邻居的阳台种着薄荷",
+        "author": "马青禾",
+        "cover": "https://example.invalid/cover/99000008.jpg",
+        "format": "epub",
+        "publishTime": "2023-04-27 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 6,
+      "noteCount": 8,
+      "markedStatus": 0,
+      "readingProgress": 31,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000009",
+      "book": {
+        "bookId": "99000009",
+        "deepLink": "https://example.invalid/book/99000009",
+        "readerLink": "https://example.invalid/reader/99000009",
+        "title": "纸上的星图不太准",
+        "author": "江澄",
+        "cover": "https://example.invalid/cover/99000009.jpg",
+        "format": "epub",
+        "publishTime": "2015-08-30 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 5,
+      "noteCount": 7,
+      "markedStatus": 0,
+      "readingProgress": 18,
+      "sort": 1726488000
+    },
+    {
+      "bookId": "99000010",
+      "book": {
+        "bookId": "99000010",
+        "deepLink": "https://example.invalid/book/99000010",
+        "readerLink": "https://example.invalid/reader/99000010",
+        "title": "无名信箱里的回信",
+        "author": "邱晚舟",
+        "cover": "https://example.invalid/cover/99000010.jpg",
+        "format": "epub",
+        "publishTime": "2014-02-16 00:00:00",
+        "finished": 1
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 4,
+      "noteCount": 6,
+      "markedStatus": 0,
+      "readingProgress": 97,
+      "sort": 1720958400
+    },
+    {
+      "bookId": "99000011",
+      "book": {
+        "bookId": "99000011",
+        "deepLink": "https://example.invalid/book/99000011",
+        "readerLink": "https://example.invalid/reader/99000011",
+        "title": "只写给自己的夜航日志",
+        "author": "裴静深",
+        "cover": "https://example.invalid/cover/99000011.jpg",
+        "format": "epub",
+        "publishTime": "2020-01-12 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 37,
+      "noteCount": 39,
+      "markedStatus": 0,
+      "readingProgress": 77,
+      "sort": 1760702400
+    },
+    {
+      "bookId": "99000012",
+      "book": {
+        "bookId": "99000012",
+        "deepLink": "https://example.invalid/book/99000012",
+        "readerLink": "https://example.invalid/reader/99000012",
+        "title": "抽屉深处的账本",
+        "author": "韩疏影",
+        "cover": "https://example.invalid/cover/99000012.jpg",
+        "format": "epub",
+        "publishTime": "2019-11-03 00:00:00",
+        "finished": 0
+      },
+      "reviewCount": 2,
+      "bookmarkCount": 28,
+      "noteCount": 30,
+      "markedStatus": 0,
+      "readingProgress": 46,
+      "sort": 1760702400
+    }
+  ]
+}

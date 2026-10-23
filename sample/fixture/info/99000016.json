@@ -1,0 +1,26 @@
+{
+  "bookId": "99000016",
+  "title": "预算表外面的生活",
+  "author": "郑可",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000016.jpg",
+  "intro": "一本虚构的书，讲预算表外面的生活里的那些小事。",
+  "category": "经济理财-消费",
+  "publisher": "可及财经出版社",
+  "publishTime": "2019-08-18 00:00:00",
+  "isbn": "978-7-990-00016-0",
+  "newRating": 643,
+  "newRatingCount": 72,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 50,
+    "fair": 14,
+    "poor": 8,
+    "deepV": 3,
+    "recent": 643,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000016",
+  "readerLink": "https://example.invalid/reader/99000016"
+}

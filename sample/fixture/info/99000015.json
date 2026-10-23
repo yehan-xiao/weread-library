@@ -1,0 +1,26 @@
+{
+  "bookId": "99000015",
+  "title": "把问题问到第三遍",
+  "author": "吴见山",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000015.jpg",
+  "intro": "一本虚构的书，讲把问题问到第三遍里的那些小事。",
+  "category": "个人成长-提问",
+  "publisher": "见山书房",
+  "publishTime": "2021-05-06 00:00:00",
+  "isbn": "978-7-990-00015-0",
+  "newRating": 632,
+  "newRatingCount": 53,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 37,
+    "fair": 10,
+    "poor": 6,
+    "deepV": 2,
+    "recent": 632,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000015",
+  "readerLink": "https://example.invalid/reader/99000015"
+}

@@ -1,0 +1,300 @@
+{
+  "bookId": "99000004",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000004",
+    "title": "潮声停在第三章：岸上的人先走了",
+    "author": "顾南枝",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000004.jpg",
+    "intro": "潮声最大的地方，故事故意没有把人送回岸上。",
+    "category": "文学-长篇小说",
+    "publisher": "潮声文学出版社",
+    "publishTime": "2018-07-21 00:00:00",
+    "isbn": "978-7-990-00004-0",
+    "newRating": 916,
+    "newRatingCount": 540,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 378,
+      "fair": 108,
+      "poor": 54,
+      "deepV": 27,
+      "recent": 916,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000004",
+    "readerLink": "https://example.invalid/reader/99000004"
+  },
+  "progress": {
+    "bookId": "99000004",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 64,
+      "readingTime": 19827,
+      "recordReadingTime": 19827,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 104,
+      "chapterIdx": 4,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000004",
+      "title": "潮声停在第三章：岸上的人先走了",
+      "author": "顾南枝",
+      "cover": "https://example.invalid/cover/99000004.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "码头"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "船上"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "岸"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "潮声最大的时候"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000004001",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "潮水并不负责把故事带回岸上。",
+        "range": "130-158",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004002",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "码头上的人总比船上的人先看见天气。",
+        "range": "641-675",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004003",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "她把行李放在脚边，像随时可以不走。",
+        "range": "917-951",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004004",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "潮声最大的那一段，人物反而很少说话。",
+        "range": "1165-1201",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004005",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "我喜欢那个不解释自己为什么留下的人。",
+        "range": "1420-1456",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004006",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "海水退下去之后，沙滩上的脚印比故事清楚。",
+        "range": "1687-1727",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004007",
+        "bookId": "99000004",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "有一艘船一直停在段落后面，没有被写走。",
+        "range": "1942-1980",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004008",
+        "bookId": "99000004",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1710763200,
+        "markText": "岸上的灯先灭，海里的灯还亮着。",
+        "range": "124-154",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004009",
+        "bookId": "99000004",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1618833600,
+        "markText": "对话短的时候，我读得更慢。",
+        "range": "130-156",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004010",
+        "bookId": "99000004",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1715342400,
+        "markText": "他把地址写错了一回，信却仍然送到了。",
+        "range": "128-164",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004011",
+        "bookId": "99000004",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1654948800,
+        "markText": "结局没有团聚，只是把湿衣服晾上了。",
+        "range": "388-422",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000004012",
+        "bookId": "99000004",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1720785600,
+        "markText": "我合上书的时候，耳朵里还有一点假的潮声。",
+        "range": "381-421",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000004",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "码头",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "船上",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "岸",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "潮声最大的时候",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000004001",
+      "review": {
+        "reviewId": "RV99000004001",
+        "bookId": "99000004",
+        "content": "我把没读完的章节折了个角，不是放弃，是先放着。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "码头",
+        "range": "384-430",
+        "type": 1,
+        "abstract": "故事可以在潮声最大的地方停一下。"
+      }
+    },
+    {
+      "reviewId": "RV99000004002",
+      "review": {
+        "reviewId": "RV99000004002",
+        "bookId": "99000004",
+        "content": "我站在码头这一边，暂时不想上船。",
+        "createTime": 1691928000,
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "chapterTitle": "潮声最大的时候",
+        "range": "394-426",
+        "type": 1
+      }
+    }
+  ]
+}

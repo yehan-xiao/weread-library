@@ -1,0 +1,245 @@
+{
+  "bookId": "99000007",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000007",
+    "title": "问号先放在口袋里",
+    "author": "叶知微",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000007.jpg",
+    "intro": "暂时没有答案的问题，可以先放在口袋里过夜。",
+    "category": "个人成长-思维方法",
+    "publisher": "问津学社",
+    "publishTime": "2017-10-08 00:00:00",
+    "isbn": "978-7-990-00007-0",
+    "newRating": 889,
+    "newRatingCount": 67,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 46,
+      "fair": 13,
+      "poor": 8,
+      "deepV": 3,
+      "recent": 889,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000007",
+    "readerLink": "https://example.invalid/reader/99000007"
+  },
+  "progress": {
+    "bookId": "99000007",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 73,
+      "readingTime": 9863,
+      "recordReadingTime": 9863,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 102,
+      "chapterIdx": 2,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000007",
+      "title": "问号先放在口袋里",
+      "author": "叶知微",
+      "cover": "https://example.invalid/cover/99000007.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "口袋"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "过夜的问题"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "我不知道"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "纸的背面"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000007001",
+        "bookId": "99000007",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "问题可以先揣着走，不必当场兑换成答案。",
+        "range": "127-165",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007002",
+        "bookId": "99000007",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "口袋里的问号不会过期，它只会在走路时碰到腿。",
+        "range": "640-684",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007003",
+        "bookId": "99000007",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我把暂时没有答案的事写在纸的背面。",
+        "range": "907-941",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007004",
+        "bookId": "99000007",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "急着回答的时候，我通常是在保护自己。",
+        "range": "1178-1214",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007005",
+        "bookId": "99000007",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1692100800,
+        "markText": "一个好问题会让房间安静一下。",
+        "range": "125-153",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007006",
+        "bookId": "99000007",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1726488000,
+        "markText": "我不再把我不知道说成道歉。",
+        "range": "130-156",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000007007",
+        "bookId": "99000007",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1760702400,
+        "markText": "第二天早上问号还在，我就相信它值得留着。",
+        "range": "134-174",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000007",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "口袋",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "过夜的问题",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "我不知道",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "纸的背面",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000007001",
+      "review": {
+        "reviewId": "RV99000007001",
+        "bookId": "99000007",
+        "content": "我把问号留到第二天，它居然还在。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "口袋",
+        "range": "389-421",
+        "type": 1,
+        "abstract": "问题可以过夜，答案不必连夜赶到。"
+      }
+    },
+    {
+      "reviewId": "RV99000007002",
+      "review": {
+        "reviewId": "RV99000007002",
+        "bookId": "99000007",
+        "content": "不知道本身也可以被放进口袋。",
+        "createTime": 1710763200,
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "chapterTitle": "过夜的问题",
+        "range": "385-413",
+        "type": 1
+      }
+    }
+  ]
+}

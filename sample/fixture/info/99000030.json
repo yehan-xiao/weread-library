@@ -1,0 +1,26 @@
+{
+  "bookId": "99000030",
+  "title": "店铺打烊之后",
+  "author": "钱牧",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000030.jpg",
+  "intro": "一本虚构的书，讲店铺打烊之后里的那些小事。",
+  "category": "经济理财-小店",
+  "publisher": "打烊商业出版社",
+  "publishTime": "2016-04-04 00:00:00",
+  "isbn": "978-7-990-00030-0",
+  "newRating": 797,
+  "newRatingCount": 338,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 236,
+    "fair": 67,
+    "poor": 35,
+    "deepV": 16,
+    "recent": 797,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000030",
+  "readerLink": "https://example.invalid/reader/99000030"
+}

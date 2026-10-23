@@ -1,0 +1,223 @@
+{
+  "bookId": "99000009",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000009",
+    "title": "纸上的星图不太准",
+    "author": "江澄",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000009.jpg",
+    "intro": "一张对不准的图，怎样影响人愿不愿意再抬头看。",
+    "category": "心理-认知心理",
+    "publisher": "星图心理出版社",
+    "publishTime": "2015-08-30 00:00:00",
+    "isbn": "978-7-990-00009-0",
+    "newRating": 851,
+    "newRatingCount": 960,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 672,
+      "fair": 192,
+      "poor": 96,
+      "deepV": 48,
+      "recent": 851,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000009",
+    "readerLink": "https://example.invalid/reader/99000009"
+  },
+  "progress": {
+    "bookId": "99000009",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 18,
+      "readingTime": 6407,
+      "recordReadingTime": 6407,
+      "updateTime": 1726488000,
+      "startReadingTime": 1618142400,
+      "chapterUid": 104,
+      "chapterIdx": 4,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1726488000
+    }
+  },
+  "bookmarks": {
+    "synckey": 1726488000,
+    "book": {
+      "bookId": "99000009",
+      "title": "纸上的星图不太准",
+      "author": "江澄",
+      "cover": "https://example.invalid/cover/99000009.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "对不准的地方"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "纸的温度"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "误差"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "抬头"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000009001",
+        "bookId": "99000009",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "星图画错一点没关系，抬头还能再对一次。",
+        "range": "134-172",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000009002",
+        "bookId": "99000009",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "我接受那张图是错的，仍然喜欢纸的温度。",
+        "range": "641-679",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000009003",
+        "bookId": "99000009",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "误差被标出来之后，路反而好认了。",
+        "range": "913-945",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000009004",
+        "bookId": "99000009",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1720958400,
+        "markText": "我不再因为对不准就否定整张图。",
+        "range": "135-165",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000009005",
+        "bookId": "99000009",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1692100800,
+        "markText": "夜里抬头的那一下，比白天的解释重要。",
+        "range": "121-157",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000009",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "对不准的地方",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "纸的温度",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "误差",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "抬头",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000009001",
+      "review": {
+        "reviewId": "RV99000009001",
+        "bookId": "99000009",
+        "content": "我愿意带着一张不准的图出门。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "对不准的地方",
+        "range": "381-409",
+        "type": 1,
+        "abstract": "不准的图仍然指出了抬头的方向。"
+      }
+    },
+    {
+      "reviewId": "RV99000009002",
+      "review": {
+        "reviewId": "RV99000009002",
+        "bookId": "99000009",
+        "content": "对不准的时候，我选择再看一次天空。",
+        "createTime": 1726488000,
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "chapterTitle": "抬头",
+        "range": "123-157",
+        "type": 1
+      }
+    }
+  ]
+}

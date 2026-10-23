@@ -1,0 +1,26 @@
+{
+  "bookId": "99000036",
+  "title": "海里的盐从哪来",
+  "author": "贝川",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000036.jpg",
+  "intro": "一本虚构的书，讲海里的盐从哪来里的那些小事。",
+  "category": "科学技术-海洋",
+  "publisher": "盐粒科普出版社",
+  "publishTime": "2015-05-05 00:00:00",
+  "isbn": "978-7-990-00036-0",
+  "newRating": 863,
+  "newRatingCount": 452,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 316,
+    "fair": 90,
+    "poor": 46,
+    "deepV": 22,
+    "recent": 863,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000036",
+  "readerLink": "https://example.invalid/reader/99000036"
+}

@@ -1,0 +1,26 @@
+{
+  "bookId": "99000033",
+  "title": "古桥的影子有多长",
+  "author": "周渡",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000033.jpg",
+  "intro": "一本虚构的书，讲古桥的影子有多长里的那些小事。",
+  "category": "历史-桥梁",
+  "publisher": "古桥出版社",
+  "publishTime": "2012-02-02 00:00:00",
+  "isbn": "978-7-990-00033-0",
+  "newRating": 830,
+  "newRatingCount": 395,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 276,
+    "fair": 79,
+    "poor": 40,
+    "deepV": 19,
+    "recent": 830,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000033",
+  "readerLink": "https://example.invalid/reader/99000033"
+}

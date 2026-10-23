@@ -1,0 +1,118 @@
+{
+  "totalReadTime": 1712345,
+  "readDays": 513,
+  "preferTimeWord": "夜里",
+  "preferCategoryWord": "散文",
+  "preferTime": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    4,
+    6,
+    8,
+    7,
+    5,
+    4,
+    6,
+    8,
+    9,
+    10,
+    12,
+    14,
+    18,
+    22,
+    26,
+    24,
+    11
+  ],
+  "readTimes": {
+    "1609459200": 80000,
+    "1640995200": 97531,
+    "1672531200": 115062,
+    "1704067200": 132593,
+    "1735689600": 150124
+  },
+  "baseTime": 1609718400,
+  "registTime": 1609718400,
+  "authorCount": 36,
+  "readDistributionWord": "阅读多发生在夜里，周末比工作日更长一些。",
+  "readRecordsWord": "这是一份虚构的阅读记录。",
+  "preferCategory": [
+    {
+      "categoryId": 1101,
+      "categoryTitle": "散文随笔",
+      "parentCategoryId": 100,
+      "parentCategoryTitle": "文学",
+      "readingCount": 6,
+      "readingTime": 220000
+    },
+    {
+      "categoryId": 1202,
+      "categoryTitle": "自我提升",
+      "parentCategoryId": 120,
+      "parentCategoryTitle": "个人成长",
+      "readingCount": 4,
+      "readingTime": 140000
+    },
+    {
+      "categoryId": 1303,
+      "categoryTitle": "情绪管理",
+      "parentCategoryId": 130,
+      "parentCategoryTitle": "心理",
+      "readingCount": 2,
+      "readingTime": 60000
+    }
+  ],
+  "preferAuthor": [],
+  "preferPublisher": [
+    {
+      "name": "南窗文艺出版社",
+      "count": 1
+    }
+  ],
+  "preferCp": [],
+  "preferBooks": [],
+  "readLongest": [
+    {
+      "book": {
+        "bookId": "99000001",
+        "title": "窗台上的慢信：给远方的十二封散文"
+      },
+      "readTime": 42817
+    },
+    {
+      "book": {
+        "bookId": "99000002",
+        "title": "把一天折成四段"
+      },
+      "readTime": 31241
+    },
+    {
+      "book": {
+        "bookId": "99000004",
+        "title": "潮声停在第三章：岸上的人先走了"
+      },
+      "readTime": 19827
+    },
+    {
+      "book": {
+        "bookId": "99000006",
+        "title": "河边的旧车站"
+      },
+      "readTime": 22119
+    },
+    {
+      "book": {
+        "bookId": "99000008",
+        "title": "邻居的阳台种着薄荷"
+      },
+      "readTime": 7321
+    }
+  ],
+  "readStat": [],
+  "medals": []
+}

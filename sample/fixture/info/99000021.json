@@ -1,0 +1,26 @@
+{
+  "bookId": "99000021",
+  "title": "巷口的收音机",
+  "author": "何麦",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000021.jpg",
+  "intro": "一本虚构的书，讲巷口的收音机里的那些小事。",
+  "category": "社会文化-日常生活",
+  "publisher": "巷口出版社",
+  "publishTime": "2014-06-08 00:00:00",
+  "isbn": "978-7-990-00021-0",
+  "newRating": 698,
+  "newRatingCount": 167,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 116,
+    "fair": 33,
+    "poor": 18,
+    "deepV": 8,
+    "recent": 698,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000021",
+  "readerLink": "https://example.invalid/reader/99000021"
+}

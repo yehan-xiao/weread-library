@@ -1,0 +1,26 @@
+{
+  "bookId": "99000040",
+  "title": "把课文读出声来",
+  "author": "夏诵",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000040.jpg",
+  "intro": "一本虚构的书，讲把课文读出声来里的那些小事。",
+  "category": "教育学习-朗读",
+  "publisher": "出声教育出版社",
+  "publishTime": "2014-04-14 00:00:00",
+  "isbn": "978-7-990-00040-0",
+  "newRating": 907,
+  "newRatingCount": 528,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 369,
+    "fair": 105,
+    "poor": 54,
+    "deepV": 26,
+    "recent": 907,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000040",
+  "readerLink": "https://example.invalid/reader/99000040"
+}

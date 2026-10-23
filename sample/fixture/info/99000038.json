@@ -1,0 +1,26 @@
+{
+  "bookId": "99000038",
+  "title": "素描本里的未完成",
+  "author": "艾迟",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000038.jpg",
+  "intro": "一本虚构的书，讲素描本里的未完成里的那些小事。",
+  "category": "艺术-素描",
+  "publisher": "未完成艺术出版社",
+  "publishTime": "2017-07-07 00:00:00",
+  "isbn": "978-7-990-00038-0",
+  "newRating": 885,
+  "newRatingCount": 490,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 343,
+    "fair": 98,
+    "poor": 49,
+    "deepV": 24,
+    "recent": 885,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000038",
+  "readerLink": "https://example.invalid/reader/99000038"
+}

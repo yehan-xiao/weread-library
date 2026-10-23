@@ -1,0 +1,26 @@
+{
+  "bookId": "99000020",
+  "title": "不必急着回答",
+  "author": "谭石",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000020.jpg",
+  "intro": "一本虚构的书，讲不必急着回答里的那些小事。",
+  "category": "哲学宗教-思想",
+  "publisher": "缓答学社",
+  "publishTime": "2015-12-12 00:00:00",
+  "isbn": "978-7-990-00020-0",
+  "newRating": 687,
+  "newRatingCount": 148,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 103,
+    "fair": 29,
+    "poor": 16,
+    "deepV": 7,
+    "recent": 687,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000020",
+  "readerLink": "https://example.invalid/reader/99000020"
+}

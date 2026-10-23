@@ -1,0 +1,26 @@
+{
+  "bookId": "99000027",
+  "title": "边界以北的来信",
+  "author": "纪北辰",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000027.jpg",
+  "intro": "一本虚构的书，讲边界以北的来信里的那些小事。",
+  "category": "政治军事-往来",
+  "publisher": "边界观察出版社",
+  "publishTime": "2017-11-11 00:00:00",
+  "isbn": "978-7-990-00027-0",
+  "newRating": 764,
+  "newRatingCount": 281,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 196,
+    "fair": 56,
+    "poor": 29,
+    "deepV": 14,
+    "recent": 764,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000027",
+  "readerLink": "https://example.invalid/reader/99000027"
+}

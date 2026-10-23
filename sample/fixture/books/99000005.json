@@ -1,0 +1,278 @@
+{
+  "bookId": "99000005",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000005",
+    "title": "情绪的抽屉没有上锁",
+    "author": "苏小满",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000005.jpg",
+    "intro": "给不同的情绪各自一个抽屉，并且允许锁开着。",
+    "category": "心理-情绪管理",
+    "publisher": "心岸心理出版社",
+    "publishTime": "2022-03-11 00:00:00",
+    "isbn": "978-7-990-00005-0",
+    "newRating": 808,
+    "newRatingCount": 3260,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 2282,
+      "fair": 652,
+      "poor": 326,
+      "deepV": 163,
+      "recent": 808,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000005",
+    "readerLink": "https://example.invalid/reader/99000005"
+  },
+  "progress": {
+    "bookId": "99000005",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 42,
+      "readingTime": 15443,
+      "recordReadingTime": 15443,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000005",
+      "title": "情绪的抽屉没有上锁",
+      "author": "苏小满",
+      "cover": "https://example.invalid/cover/99000005.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "抽屉"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "命名"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "半开的锁"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "单独一格"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000005001",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "情绪不必整理整齐，先让它有一个抽屉就够了。",
+        "range": "132-174",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005002",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "生气如果和委屈放在一起，两件都会发霉。",
+        "range": "652-690",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005003",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我给害怕单独留了一格，它就不去碰别的东西。",
+        "range": "916-958",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005004",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "高兴的时候也可以记一笔，免得抽屉里只有坏天气。",
+        "range": "1172-1218",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005005",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "我不再要求自己先冷静再感受。",
+        "range": "1422-1450",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005006",
+        "bookId": "99000005",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "有些情绪过了站还坐在身上，我请它报站名。",
+        "range": "1698-1738",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005007",
+        "bookId": "99000005",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1760702400,
+        "markText": "把感受写下来之后，它好像小了一号。",
+        "range": "125-159",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005008",
+        "bookId": "99000005",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1710763200,
+        "markText": "我允许抽屉半开着，不必每次都上锁。",
+        "range": "130-164",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005009",
+        "bookId": "99000005",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1618833600,
+        "markText": "别人的语气很急的时候，我先看看自己的抽屉。",
+        "range": "124-166",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000005010",
+        "bookId": "99000005",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1715342400,
+        "markText": "命名一种情绪，比赶走它更有用。",
+        "range": "386-416",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000005",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "抽屉",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "命名",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "半开的锁",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "单独一格",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000005001",
+      "review": {
+        "reviewId": "RV99000005001",
+        "bookId": "99000005",
+        "content": "我把生气单独放一格，免得它沾到别的事。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "抽屉",
+        "range": "395-433",
+        "type": 1,
+        "abstract": "情绪混在一起的时候，每一件都会受潮。"
+      }
+    },
+    {
+      "reviewId": "RV99000005002",
+      "review": {
+        "reviewId": "RV99000005002",
+        "bookId": "99000005",
+        "content": "抽屉没有上锁，我进出都比较诚实。",
+        "createTime": 1654948800,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "半开的锁",
+        "range": "394-426",
+        "type": 1
+      }
+    }
+  ]
+}

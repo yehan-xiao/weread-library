@@ -1,0 +1,26 @@
+{
+  "bookId": "99000025",
+  "title": "厨房里的几何",
+  "author": "潘小满",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000025.jpg",
+  "intro": "一本虚构的书，讲厨房里的几何里的那些小事。",
+  "category": "生活百科-家务",
+  "publisher": "几何生活出版社",
+  "publishTime": "2020-07-19 00:00:00",
+  "isbn": "978-7-990-00025-0",
+  "newRating": 742,
+  "newRatingCount": 243,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 170,
+    "fair": 48,
+    "poor": 25,
+    "deepV": 12,
+    "recent": 742,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000025",
+  "readerLink": "https://example.invalid/reader/99000025"
+}

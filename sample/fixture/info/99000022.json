@@ -1,0 +1,26 @@
+{
+  "bookId": "99000022",
+  "title": "云的说明书不太好用",
+  "author": "陆深",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000022.jpg",
+  "intro": "一本虚构的书，讲云的说明书不太好用里的那些小事。",
+  "category": "科学技术-自然科普",
+  "publisher": "云图出版社",
+  "publishTime": "2023-02-14 00:00:00",
+  "isbn": "978-7-990-00022-0",
+  "newRating": 709,
+  "newRatingCount": 186,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 130,
+    "fair": 37,
+    "poor": 19,
+    "deepV": 9,
+    "recent": 709,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000022",
+  "readerLink": "https://example.invalid/reader/99000022"
+}

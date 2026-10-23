@@ -1,0 +1,476 @@
+{
+  "bookId": "99000012",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000012",
+    "title": "抽屉深处的账本",
+    "author": "韩疏影",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000012.jpg",
+    "intro": "一本放在抽屉夹层里、不打算给人看的账。",
+    "category": "经济理财-个人理财",
+    "publisher": "疏影理财社",
+    "publishTime": "2019-11-03 00:00:00",
+    "isbn": "978-7-990-00012-0",
+    "newRating": 688,
+    "newRatingCount": 23,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 16,
+      "fair": 4,
+      "poor": 3,
+      "deepV": 1,
+      "recent": 688,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000012",
+    "readerLink": "https://example.invalid/reader/99000012"
+  },
+  "progress": {
+    "bookId": "99000012",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 46,
+      "readingTime": 36011,
+      "recordReadingTime": 36011,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000012",
+      "title": "抽屉深处的账本",
+      "author": "韩疏影",
+      "cover": "https://example.invalid/cover/99000012.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "夹层"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "红笔"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "合计"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "不想给别人看"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000012001",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "有些账只记给自己，是为了不把生活交出去。",
+        "range": "121-161",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012002",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "看到旧账本的时候，我放慢了翻页。",
+        "range": "657-689",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012003",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "看到红笔的时候，我放慢了翻页。",
+        "range": "907-937",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012004",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "看到没有告诉别人的支出的时候，我放慢了翻页。",
+        "range": "1160-1204",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012005",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "看到抽屉夹层的时候，我放慢了翻页。",
+        "range": "1428-1462",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012006",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "看到手写的合计的时候，我放慢了翻页。",
+        "range": "1693-1729",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012007",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "看到被涂掉的一行的时候，我放慢了翻页。",
+        "range": "1956-1994",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012008",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710763200,
+        "markText": "看到私人的结余的时候，我放慢了翻页。",
+        "range": "2209-2245",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012009",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1618833600,
+        "markText": "看到信封里的收据的时候，我放慢了翻页。",
+        "range": "2477-2515",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012010",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715342400,
+        "markText": "看到不想公开的账的时候，我放慢了翻页。",
+        "range": "2729-2767",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012011",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1654948800,
+        "markText": "看到月末的空白的时候，我放慢了翻页。",
+        "range": "2981-3017",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012012",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720785600,
+        "markText": "看到只属于自己的账的时候，我放慢了翻页。",
+        "range": "3240-3280",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012013",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1691928000,
+        "markText": "看到压在最下面的那页的时候，我放慢了翻页。",
+        "range": "3509-3551",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012014",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726315200,
+        "markText": "旧账本写得很轻，我还是划上了。",
+        "range": "3773-3803",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012015",
+        "bookId": "99000012",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760529600,
+        "markText": "红笔写得很轻，我还是划上了。",
+        "range": "4027-4055",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012016",
+        "bookId": "99000012",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1710590400,
+        "markText": "没有告诉别人的支出写得很轻，我还是划上了。",
+        "range": "122-164",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012017",
+        "bookId": "99000012",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1618660800,
+        "markText": "抽屉夹层写得很轻，我还是划上了。",
+        "range": "134-166",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012018",
+        "bookId": "99000012",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1716033600,
+        "markText": "手写的合计写得很轻，我还是划上了。",
+        "range": "132-166",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012019",
+        "bookId": "99000012",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1655640000,
+        "markText": "被涂掉的一行写得很轻，我还是划上了。",
+        "range": "395-431",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012020",
+        "bookId": "99000012",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1720612800,
+        "markText": "私人的结余写得很轻，我还是划上了。",
+        "range": "394-428",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012021",
+        "bookId": "99000012",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1691755200,
+        "markText": "信封里的收据写得很轻，我还是划上了。",
+        "range": "390-426",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012022",
+        "bookId": "99000012",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1726142400,
+        "markText": "不想公开的账写得很轻，我还是划上了。",
+        "range": "641-677",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012023",
+        "bookId": "99000012",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1760356800,
+        "markText": "月末的空白写得很轻，我还是划上了。",
+        "range": "646-680",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012024",
+        "bookId": "99000012",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1710417600,
+        "markText": "只属于自己的账写得很轻，我还是划上了。",
+        "range": "651-689",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012025",
+        "bookId": "99000012",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1618488000,
+        "markText": "压在最下面的那页写得很轻，我还是划上了。",
+        "range": "906-946",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012026",
+        "bookId": "99000012",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1715860800,
+        "markText": "我在旧账本这里停住，是因为它没有把话说死。",
+        "range": "909-951",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012027",
+        "bookId": "99000012",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1655467200,
+        "markText": "我在红笔这里停住，是因为它没有把话说死。",
+        "range": "915-955",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000012028",
+        "bookId": "99000012",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1721304000,
+        "markText": "我在没有告诉别人的支出这里停住，是因为它没有把话说死。",
+        "range": "1170-1224",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000012",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "夹层",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "红笔",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "合计",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "不想给别人看",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000012001",
+      "review": {
+        "reviewId": "RV99000012001",
+        "bookId": "99000012",
+        "content": "合计不一定要给人看，先对自己诚实就够了。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "夹层",
+        "range": "391-431",
+        "type": 1,
+        "abstract": "账本合上之后，才听得见自己的声音。"
+      }
+    },
+    {
+      "reviewId": "RV99000012002",
+      "review": {
+        "reviewId": "RV99000012002",
+        "bookId": "99000012",
+        "content": "我把不想解释的那一笔涂掉了，涂掉也是一种记录。",
+        "createTime": 1692446400,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "合计",
+        "range": "1165-1211",
+        "type": 1
+      }
+    }
+  ]
+}

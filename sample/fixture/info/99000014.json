@@ -1,0 +1,26 @@
+{
+  "bookId": "99000014",
+  "title": "地图边缘的小镇",
+  "author": "梁秋迟",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000014.jpg",
+  "intro": "一本虚构的书，讲地图边缘的小镇里的那些小事。",
+  "category": "文学-中篇小说",
+  "publisher": "边缘文艺出版社",
+  "publishTime": "2018-11-20 00:00:00",
+  "isbn": "978-7-990-00014-0",
+  "newRating": 621,
+  "newRatingCount": 34,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 23,
+    "fair": 6,
+    "poor": 5,
+    "deepV": 1,
+    "recent": 621,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000014",
+  "readerLink": "https://example.invalid/reader/99000014"
+}

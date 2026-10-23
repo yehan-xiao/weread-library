@@ -1,0 +1,26 @@
+{
+  "bookId": "99000023",
+  "title": "一位修钟人的下午",
+  "author": "曹晚",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000023.jpg",
+  "intro": "一本虚构的书，讲一位修钟人的下午里的那些小事。",
+  "category": "人物传记-匠人",
+  "publisher": "匠人传记出版社",
+  "publishTime": "2013-10-01 00:00:00",
+  "isbn": "978-7-990-00023-0",
+  "newRating": 721,
+  "newRatingCount": 205,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 143,
+    "fair": 41,
+    "poor": 21,
+    "deepV": 10,
+    "recent": 721,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000023",
+  "readerLink": "https://example.invalid/reader/99000023"
+}

@@ -1,0 +1,26 @@
+{
+  "bookId": "99000013",
+  "title": "早晨的第二杯水",
+  "author": "赵小禾",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000013.jpg",
+  "intro": "一本虚构的书，讲早晨的第二杯水里的那些小事。",
+  "category": "生活百科-饮食起居",
+  "publisher": "晨露生活出版社",
+  "publishTime": "2020-03-02 00:00:00",
+  "isbn": "978-7-990-00013-0",
+  "newRating": 610,
+  "newRatingCount": 15,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 10,
+    "fair": 3,
+    "poor": 2,
+    "deepV": 0,
+    "recent": 610,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000013",
+  "readerLink": "https://example.invalid/reader/99000013"
+}

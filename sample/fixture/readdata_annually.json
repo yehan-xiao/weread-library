@@ -1,0 +1,61 @@
+{
+  "totalReadTime": 486210,
+  "readDays": 126,
+  "preferCategoryWord": "散文",
+  "readTimes": {
+    "1767225600": 20913,
+    "1769904000": 21826,
+    "1772323200": 22739,
+    "1775001600": 23652,
+    "1777593600": 24565,
+    "1780272000": 25478,
+    "1782864000": 26391,
+    "1785542400": 27304,
+    "1788220800": 28217,
+    "1790812800": 29130,
+    "1793491200": 30043,
+    "1796083200": 30956
+  },
+  "baseTime": 1767225600,
+  "registTime": 1609718400,
+  "compare": 1.08,
+  "dayAverageReadTime": 2315,
+  "readDistributionWord": "这一年的阅读仍然多在夜里。",
+  "readRecordsWord": "这是一份虚构的年度阅读记录。",
+  "preferCategory": [
+    {
+      "categoryId": 1101,
+      "categoryTitle": "散文随笔",
+      "parentCategoryId": 100,
+      "parentCategoryTitle": "文学",
+      "readingCount": 6,
+      "readingTime": 220000
+    },
+    {
+      "categoryId": 1202,
+      "categoryTitle": "自我提升",
+      "parentCategoryId": 120,
+      "parentCategoryTitle": "个人成长",
+      "readingCount": 4,
+      "readingTime": 140000
+    },
+    {
+      "categoryId": 1303,
+      "categoryTitle": "情绪管理",
+      "parentCategoryId": 130,
+      "parentCategoryTitle": "心理",
+      "readingCount": 2,
+      "readingTime": 60000
+    }
+  ],
+  "preferPublisher": [
+    {
+      "name": "南窗文艺出版社",
+      "count": 1
+    }
+  ],
+  "preferCp": [],
+  "preferBooks": [],
+  "readLongest": [],
+  "readStat": []
+}

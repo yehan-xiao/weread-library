@@ -1,0 +1,26 @@
+{
+  "bookId": "99000029",
+  "title": "学会把计划写短",
+  "author": "乔理",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000029.jpg",
+  "intro": "一本虚构的书，讲学会把计划写短里的那些小事。",
+  "category": "个人成长-时间",
+  "publisher": "短计划书房",
+  "publishTime": "2022-01-25 00:00:00",
+  "isbn": "978-7-990-00029-0",
+  "newRating": 786,
+  "newRatingCount": 319,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 223,
+    "fair": 63,
+    "poor": 33,
+    "deepV": 15,
+    "recent": 786,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000029",
+  "readerLink": "https://example.invalid/reader/99000029"
+}

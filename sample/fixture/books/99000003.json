@@ -1,0 +1,322 @@
+{
+  "bookId": "99000003",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000003",
+    "title": "会议室里的空白椅子",
+    "author": "沈知衡",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000003.jpg",
+    "intro": "一场会里，空着的座位和没有开口的人同样算数。",
+    "category": "个人成长-工作方法",
+    "publisher": "衡石书房",
+    "publishTime": "2020-09-14 00:00:00",
+    "isbn": "978-7-990-00003-0",
+    "newRating": 841,
+    "newRatingCount": 12840,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 8988,
+      "fair": 2568,
+      "poor": 1284,
+      "deepV": 642,
+      "recent": 841,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000003",
+    "readerLink": "https://example.invalid/reader/99000003"
+  },
+  "progress": {
+    "bookId": "99000003",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 99,
+      "readingTime": 25683,
+      "recordReadingTime": 25683,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 102,
+      "chapterIdx": 2,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000003",
+      "title": "会议室里的空白椅子",
+      "author": "沈知衡",
+      "cover": "https://example.invalid/cover/99000003.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "谁没说话"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "议程"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "散会以后"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "边上的座位"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000003001",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "空着的椅子也在开会，它提醒还有人没被问到。",
+        "range": "136-178",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003002",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "会议纪要里最有用的常常是谁没有发言。",
+        "range": "647-683",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003003",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我开始先问坐在最边上的人，再问准备好的人。",
+        "range": "910-952",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003004",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "议程写得太满的时候，真正的问题会站在门外。",
+        "range": "1176-1218",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003005",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "沉默不一定是同意，有时只是没有被留出空档。",
+        "range": "1428-1470",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003006",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "我把稍后再说抄进笔记，因为它通常不会再发生。",
+        "range": "1689-1733",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003007",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "散会以后大家才说的那几句，才是这次会的正文。",
+        "range": "1951-1995",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003008",
+        "bookId": "99000003",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710763200,
+        "markText": "我不再用忙来解释自己打断别人。",
+        "range": "2200-2230",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003009",
+        "bookId": "99000003",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1618833600,
+        "markText": "一张图如果需要讲解很久，它就还不是一张图。",
+        "range": "128-170",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003010",
+        "bookId": "99000003",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1715342400,
+        "markText": "我把反对意见写在自己的发言前面。",
+        "range": "124-156",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003011",
+        "bookId": "99000003",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1654948800,
+        "markText": "会议室的钟比外面走得快，这大概是一种压力。",
+        "range": "128-170",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003012",
+        "bookId": "99000003",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1720785600,
+        "markText": "决定可以很小，只要它让下一个人知道怎么做。",
+        "range": "387-429",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003013",
+        "bookId": "99000003",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1691928000,
+        "markText": "我学会把问题问完，而不是问到自己想要的答案。",
+        "range": "386-430",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000003014",
+        "bookId": "99000003",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1726315200,
+        "markText": "离开座位之前，我看一眼谁的杯子还是满的。",
+        "range": "383-423",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000003",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "谁没说话",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "议程",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "散会以后",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "边上的座位",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000003001",
+      "review": {
+        "reviewId": "RV99000003001",
+        "bookId": "99000003",
+        "content": "下次开会，先问坐在最边上的人。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "谁没说话",
+        "range": "398-428",
+        "type": 1,
+        "abstract": "最边上的座位常常最后才被看见。"
+      }
+    },
+    {
+      "reviewId": "RV99000003002",
+      "review": {
+        "reviewId": "RV99000003002",
+        "bookId": "99000003",
+        "content": "我开始记录谁没有说话，而不只是记录结论。",
+        "createTime": 1760529600,
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "chapterTitle": "议程",
+        "range": "641-681",
+        "type": 1
+      }
+    }
+  ]
+}

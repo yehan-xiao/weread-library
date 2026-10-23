@@ -1,0 +1,26 @@
+{
+  "bookId": "99000019",
+  "title": "城墙根下的菜市",
+  "author": "罗大年",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000019.jpg",
+  "intro": "一本虚构的书，讲城墙根下的菜市里的那些小事。",
+  "category": "历史-市井",
+  "publisher": "城根文史出版社",
+  "publishTime": "2016-09-30 00:00:00",
+  "isbn": "978-7-990-00019-0",
+  "newRating": 676,
+  "newRatingCount": 129,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 90,
+    "fair": 25,
+    "poor": 14,
+    "deepV": 6,
+    "recent": 676,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000019",
+  "readerLink": "https://example.invalid/reader/99000019"
+}

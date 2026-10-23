@@ -1,0 +1,26 @@
+{
+  "bookId": "99000032",
+  "title": "身体记得的温度",
+  "author": "许暖",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000032.jpg",
+  "intro": "一本虚构的书，讲身体记得的温度里的那些小事。",
+  "category": "心理-身体感觉",
+  "publisher": "记得心理出版社",
+  "publishTime": "2019-12-01 00:00:00",
+  "isbn": "978-7-990-00032-0",
+  "newRating": 819,
+  "newRatingCount": 376,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 263,
+    "fair": 75,
+    "poor": 38,
+    "deepV": 18,
+    "recent": 819,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000032",
+  "readerLink": "https://example.invalid/reader/99000032"
+}

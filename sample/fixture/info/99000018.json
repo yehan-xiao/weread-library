@@ -1,0 +1,26 @@
+{
+  "bookId": "99000018",
+  "title": "和焦虑坐在同一张椅子上",
+  "author": "方宁",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000018.jpg",
+  "intro": "一本虚构的书，讲和焦虑坐在同一张椅子上里的那些小事。",
+  "category": "心理-焦虑",
+  "publisher": "同椅心理出版社",
+  "publishTime": "2022-04-21 00:00:00",
+  "isbn": "978-7-990-00018-0",
+  "newRating": 665,
+  "newRatingCount": 110,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 77,
+    "fair": 22,
+    "poor": 11,
+    "deepV": 5,
+    "recent": 665,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000018",
+  "readerLink": "https://example.invalid/reader/99000018"
+}

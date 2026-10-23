@@ -1,0 +1,26 @@
+{
+  "bookId": "99000035",
+  "title": "周末的公共阅览室",
+  "author": "高朗",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000035.jpg",
+  "intro": "一本虚构的书，讲周末的公共阅览室里的那些小事。",
+  "category": "社会文化-公共生活",
+  "publisher": "阅览室出版社",
+  "publishTime": "2020-10-10 00:00:00",
+  "isbn": "978-7-990-00035-0",
+  "newRating": 852,
+  "newRatingCount": 433,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 303,
+    "fair": 86,
+    "poor": 44,
+    "deepV": 21,
+    "recent": 852,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000035",
+  "readerLink": "https://example.invalid/reader/99000035"
+}

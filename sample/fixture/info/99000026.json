@@ -1,0 +1,26 @@
+{
+  "bookId": "99000026",
+  "title": "黑板擦上的粉笔灰",
+  "author": "邓夏",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000026.jpg",
+  "intro": "一本虚构的书，讲黑板擦上的粉笔灰里的那些小事。",
+  "category": "教育学习-教学",
+  "publisher": "粉笔灰教育出版社",
+  "publishTime": "2018-05-15 00:00:00",
+  "isbn": "978-7-990-00026-0",
+  "newRating": 753,
+  "newRatingCount": 262,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 183,
+    "fair": 52,
+    "poor": 27,
+    "deepV": 13,
+    "recent": 753,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000026",
+  "readerLink": "https://example.invalid/reader/99000026"
+}

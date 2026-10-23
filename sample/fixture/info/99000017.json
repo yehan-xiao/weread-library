@@ -1,0 +1,26 @@
+{
+  "bookId": "99000017",
+  "title": "火车晚点的那个下午",
+  "author": "宋以宁",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000017.jpg",
+  "intro": "一本虚构的书，讲火车晚点的那个下午里的那些小事。",
+  "category": "精品小说-短篇",
+  "publisher": "晚点文学出版社",
+  "publishTime": "2017-01-09 00:00:00",
+  "isbn": "978-7-990-00017-0",
+  "newRating": 654,
+  "newRatingCount": 91,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 63,
+    "fair": 18,
+    "poor": 10,
+    "deepV": 4,
+    "recent": 654,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000017",
+  "readerLink": "https://example.invalid/reader/99000017"
+}

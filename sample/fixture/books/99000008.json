@@ -1,0 +1,234 @@
+{
+  "bookId": "99000008",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000008",
+    "title": "邻居的阳台种着薄荷",
+    "author": "马青禾",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000008.jpg",
+    "intro": "楼上一盆长过栏杆的薄荷，和楼下先闻到的人。",
+    "category": "文学-生活散文",
+    "publisher": "街角文艺出版社",
+    "publishTime": "2023-04-27 00:00:00",
+    "isbn": "978-7-990-00008-0",
+    "newRating": 794,
+    "newRatingCount": 41,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 28,
+      "fair": 8,
+      "poor": 5,
+      "deepV": 2,
+      "recent": 794,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000008",
+    "readerLink": "https://example.invalid/reader/99000008"
+  },
+  "progress": {
+    "bookId": "99000008",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 31,
+      "readingTime": 7321,
+      "recordReadingTime": 7321,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 104,
+      "chapterIdx": 4,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000008",
+      "title": "邻居的阳台种着薄荷",
+      "author": "马青禾",
+      "cover": "https://example.invalid/cover/99000008.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "栏杆"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "浇水"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "楼道"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "新叶"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000008001",
+        "bookId": "99000008",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "薄荷长过栏杆的那天，楼下的人先闻到。",
+        "range": "131-167",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000008002",
+        "bookId": "99000008",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "邻居浇水的声音比打招呼更常见。",
+        "range": "642-672",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000008003",
+        "bookId": "99000008",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我从自家窗子里看见一片新长出来的绿。",
+        "range": "917-953",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000008004",
+        "bookId": "99000008",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "公共的楼道里有一种属于植物的凉意。",
+        "range": "1167-1201",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000008005",
+        "bookId": "99000008",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1692100800,
+        "markText": "不为什么收获的种植，反而更认真。",
+        "range": "131-163",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000008006",
+        "bookId": "99000008",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1726488000,
+        "markText": "栏杆上的锈和新叶靠在一起，谁也没让谁。",
+        "range": "125-163",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000008",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "栏杆",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "浇水",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "楼道",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "新叶",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000008001",
+      "review": {
+        "reviewId": "RV99000008001",
+        "bookId": "99000008",
+        "content": "我下次也想在窗边种一点，不为什么收获。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "栏杆",
+        "range": "394-432",
+        "type": 1,
+        "abstract": "种植物的理由可以小到只是喜欢气味。"
+      }
+    },
+    {
+      "reviewId": "RV99000008002",
+      "review": {
+        "reviewId": "RV99000008002",
+        "bookId": "99000008",
+        "content": "楼下先闻到的人，也许就是另一种邻居。",
+        "createTime": 1760702400,
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "chapterTitle": "新叶",
+        "range": "131-167",
+        "type": 1
+      }
+    }
+  ]
+}

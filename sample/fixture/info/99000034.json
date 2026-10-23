@@ -1,0 +1,26 @@
+{
+  "bookId": "99000034",
+  "title": "沉默也是一种发言",
+  "author": "吕直",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000034.jpg",
+  "intro": "一本虚构的书，讲沉默也是一种发言里的那些小事。",
+  "category": "哲学宗教-伦理",
+  "publisher": "发言学社",
+  "publishTime": "2018-08-28 00:00:00",
+  "isbn": "978-7-990-00034-0",
+  "newRating": 842,
+  "newRatingCount": 414,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 289,
+    "fair": 82,
+    "poor": 43,
+    "deepV": 20,
+    "recent": 842,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000034",
+  "readerLink": "https://example.invalid/reader/99000034"
+}

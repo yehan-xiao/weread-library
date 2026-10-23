@@ -1,0 +1,26 @@
+{
+  "bookId": "99000031",
+  "title": "月光不收过路费",
+  "author": "沈灯",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000031.jpg",
+  "intro": "一本虚构的书，讲月光不收过路费里的那些小事。",
+  "category": "精品小说-幻想",
+  "publisher": "月光文学出版社",
+  "publishTime": "2024-08-08 00:00:00",
+  "isbn": "978-7-990-00031-0",
+  "newRating": 809,
+  "newRatingCount": 357,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 249,
+    "fair": 71,
+    "poor": 37,
+    "deepV": 17,
+    "recent": 809,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000031",
+  "readerLink": "https://example.invalid/reader/99000031"
+}

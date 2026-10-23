@@ -1,0 +1,267 @@
+{
+  "bookId": "99000006",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000006",
+    "title": "河边的旧车站",
+    "author": "陈暮白",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000006.jpg",
+    "intro": "一座不再售票的河边车站，和人们离开一座城市的方式。",
+    "category": "历史-城市史",
+    "publisher": "旧站历史出版社",
+    "publishTime": "2016-05-19 00:00:00",
+    "isbn": "978-7-990-00006-0",
+    "newRating": 763,
+    "newRatingCount": 188,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 131,
+      "fair": 37,
+      "poor": 20,
+      "deepV": 9,
+      "recent": 763,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000006",
+    "readerLink": "https://example.invalid/reader/99000006"
+  },
+  "progress": {
+    "bookId": "99000006",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 98,
+      "readingTime": 22119,
+      "recordReadingTime": 22119,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000006",
+      "title": "河边的旧车站",
+      "author": "陈暮白",
+      "cover": "https://example.invalid/cover/99000006.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "售票窗口"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "站台"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "河风"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "慢车"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000006001",
+        "bookId": "99000006",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "旧车站不卖票，它只负责让人把离开想起一遍。",
+        "range": "128-170",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006002",
+        "bookId": "99000006",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "售票窗口关上以后，时刻表还挂在那里。",
+        "range": "656-692",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006003",
+        "bookId": "99000006",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "站台上的长椅被漆成深绿色，掉了一小块。",
+        "range": "917-955",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006004",
+        "bookId": "99000006",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "我看过那些长椅，没有得到一个想要的总数。",
+        "range": "1174-1214",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006005",
+        "bookId": "99000006",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "河风比火车先到。",
+        "range": "1420-1444",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006006",
+        "bookId": "99000006",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1726488000,
+        "markText": "有人在候车室里写信，信纸被座位捂热了。",
+        "range": "126-164",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006007",
+        "bookId": "99000006",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1760702400,
+        "markText": "离开的人总是先整理衣领。",
+        "range": "123-147",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006008",
+        "bookId": "99000006",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1710763200,
+        "markText": "旧站的钟慢一点，城里的约会就全都宽了。",
+        "range": "137-175",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000006009",
+        "bookId": "99000006",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1618833600,
+        "markText": "我把这一章读完，才想起自己很久没有坐慢车。",
+        "range": "395-437",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000006",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "售票窗口",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "站台",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "河风",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "慢车",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000006001",
+      "review": {
+        "reviewId": "RV99000006001",
+        "bookId": "99000006",
+        "content": "我数过站台上的长椅，没有数到一个确定的答案。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "售票窗口",
+        "range": "393-437",
+        "type": 1,
+        "abstract": "长椅的数量从来不是这章的重点。"
+      }
+    },
+    {
+      "reviewId": "RV99000006002",
+      "review": {
+        "reviewId": "RV99000006002",
+        "bookId": "99000006",
+        "content": "我想坐一次慢车，只为了经过这座旧站。",
+        "createTime": 1715342400,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "河风",
+        "range": "398-434",
+        "type": 1
+      }
+    }
+  ]
+}

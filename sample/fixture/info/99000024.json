@@ -1,0 +1,26 @@
+{
+  "bookId": "99000024",
+  "title": "颜色先于名字",
+  "author": "尹白",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000024.jpg",
+  "intro": "一本虚构的书，讲颜色先于名字里的那些小事。",
+  "category": "艺术-色彩",
+  "publisher": "先于艺术出版社",
+  "publishTime": "2019-03-03 00:00:00",
+  "isbn": "978-7-990-00024-0",
+  "newRating": 731,
+  "newRatingCount": 224,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 156,
+    "fair": 44,
+    "poor": 24,
+    "deepV": 11,
+    "recent": 731,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000024",
+  "readerLink": "https://example.invalid/reader/99000024"
+}

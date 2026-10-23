@@ -1,0 +1,26 @@
+{
+  "bookId": "99000039",
+  "title": "一间只卖文具的店",
+  "author": "米白",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000039.jpg",
+  "intro": "一本虚构的书，讲一间只卖文具的店里的那些小事。",
+  "category": "生活百科-闲趣",
+  "publisher": "文具店出版社",
+  "publishTime": "2023-03-23 00:00:00",
+  "isbn": "978-7-990-00039-0",
+  "newRating": 896,
+  "newRatingCount": 509,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 356,
+    "fair": 101,
+    "poor": 52,
+    "deepV": 25,
+    "recent": 896,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000039",
+  "readerLink": "https://example.invalid/reader/99000039"
+}

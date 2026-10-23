@@ -1,0 +1,26 @@
+{
+  "bookId": "99000037",
+  "title": "她把名字绣在袖口",
+  "author": "林绣",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000037.jpg",
+  "intro": "一本虚构的书，讲她把名字绣在袖口里的那些小事。",
+  "category": "人物传记-女性",
+  "publisher": "袖口传记出版社",
+  "publishTime": "2021-06-16 00:00:00",
+  "isbn": "978-7-990-00037-0",
+  "newRating": 874,
+  "newRatingCount": 471,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 329,
+    "fair": 94,
+    "poor": 48,
+    "deepV": 23,
+    "recent": 874,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000037",
+  "readerLink": "https://example.invalid/reader/99000037"
+}

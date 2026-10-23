@@ -1,0 +1,212 @@
+{
+  "bookId": "99000010",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000010",
+    "title": "无名信箱里的回信",
+    "author": "",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000010.jpg",
+    "intro": "一只不署名的信箱，和那些仍然被读完的回信。",
+    "category": "文学-书信",
+    "publisher": "回声文艺出版社",
+    "publishTime": "2014-02-16 00:00:00",
+    "isbn": "978-7-990-00010-0",
+    "newRating": 720,
+    "newRatingCount": 9,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 6,
+      "fair": 1,
+      "poor": 2,
+      "deepV": 0,
+      "recent": 720,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000010",
+    "readerLink": "https://example.invalid/reader/99000010"
+  },
+  "progress": {
+    "bookId": "99000010",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 97,
+      "readingTime": 4519,
+      "recordReadingTime": 4519,
+      "updateTime": 1720958400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1720958400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1720958400,
+    "book": {
+      "bookId": "99000010",
+      "title": "无名信箱里的回信",
+      "author": "邱晚舟",
+      "cover": "https://example.invalid/cover/99000010.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "没有署名"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "笔迹"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "原信"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "慢读"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000010001",
+        "bookId": "99000010",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "没有署名的回信，也可以被认真地读完。",
+        "range": "136-172",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000010002",
+        "bookId": "99000010",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "署名栏空着的时候，句子反而更清楚。",
+        "range": "648-682",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000010003",
+        "bookId": "99000010",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我把回信和原信别在一起，不再分谁先谁后。",
+        "range": "913-953",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000010004",
+        "bookId": "99000010",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1720958400,
+        "markText": "没有名字的善意，仍然有笔迹。",
+        "range": "130-158",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000010",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "没有署名",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "笔迹",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "原信",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "慢读",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000010001",
+      "review": {
+        "reviewId": "RV99000010001",
+        "bookId": "99000010",
+        "content": "空着的署名栏让我读得更慢。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "没有署名",
+        "range": "381-407",
+        "type": 1,
+        "abstract": "没有名字的信，字迹就是它的名字。"
+      }
+    },
+    {
+      "reviewId": "RV99000010002",
+      "review": {
+        "reviewId": "RV99000010002",
+        "bookId": "99000010",
+        "content": "我把这封回信读完，才去猜是谁写的。",
+        "createTime": 1692100800,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "原信",
+        "range": "138-172",
+        "type": 1
+      }
+    }
+  ]
+}

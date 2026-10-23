@@ -1,0 +1,434 @@
+{
+  "bookId": "99000001",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000001",
+    "title": "窗台上的慢信：给远方的十二封散文",
+    "author": "林晚晴",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000001.jpg",
+    "intro": "十二封没有寄远的信，写风、写迟到，也写终于没有投进邮筒的那些话。",
+    "category": "文学-散文随笔",
+    "publisher": "南窗文艺出版社",
+    "publishTime": "2019-04-18 00:00:00",
+    "isbn": "978-7-990-00001-0",
+    "newRating": 902,
+    "newRatingCount": 8640,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 6048,
+      "fair": 1728,
+      "poor": 864,
+      "deepV": 432,
+      "recent": 902,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000001",
+    "readerLink": "https://example.invalid/reader/99000001"
+  },
+  "progress": {
+    "bookId": "99000001",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 100,
+      "readingTime": 42817,
+      "recordReadingTime": 42817,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000001",
+      "title": "窗台上的慢信：给远方的十二封散文",
+      "author": "林晚晴",
+      "cover": "https://example.invalid/cover/99000001.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "第一封 雨刚停"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "第二封 铁盒"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "第三封 邮票"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "第四封 未寄出"
+      },
+      {
+        "chapterUid": 105,
+        "chapterIdx": 5,
+        "title": "第五封 回声"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000001001",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "回信可以很短，短到只剩下天气，也算抵达。",
+        "range": "128-168",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001002",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "雨停的时候，窗台边缘还挂着很小的一串水。",
+        "range": "646-686",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001003",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我把地址核对了又核对，仍然不敢投进邮筒。",
+        "range": "917-957",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001004",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "浅蓝信封比信纸先旧。",
+        "range": "1171-1195",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001005",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "邮票贴在右上角，歪了一点，我决定不重贴。",
+        "range": "1427-1467",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001006",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "远方不一定很远，有时只是迟了回信。",
+        "range": "1698-1732",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001007",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "铁盒盖子合不严，我用一根皮筋箍上。",
+        "range": "1951-1985",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001008",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710763200,
+        "markText": "她写到院子里的桂花，没有写自己的近况。",
+        "range": "2200-2238",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001009",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1618833600,
+        "markText": "我在空白处画了一小条波浪，表示我在听。",
+        "range": "2473-2511",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001010",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715342400,
+        "markText": "未寄出的信里有一句道歉，后来被我删掉了。",
+        "range": "2722-2762",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001011",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1654948800,
+        "markText": "邮箱是绿色的，钥匙却一直找不到。",
+        "range": "2992-3024",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001012",
+        "bookId": "99000001",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1720785600,
+        "markText": "把信读出声的时候，房间好像比刚才小。",
+        "range": "126-162",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001013",
+        "bookId": "99000001",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1691928000,
+        "markText": "有一封短得只剩问候，我却读了很久。",
+        "range": "129-163",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001014",
+        "bookId": "99000001",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1726315200,
+        "markText": "我把旧信按季节分开，春天的那叠最薄。",
+        "range": "131-167",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001015",
+        "bookId": "99000001",
+        "chapterUid": 105,
+        "chapterIdx": 5,
+        "createTime": 1760529600,
+        "markText": "夜航只被提到一次，我就记住了整页。",
+        "range": "129-163",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001016",
+        "bookId": "99000001",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1710590400,
+        "markText": "纸边起了毛，摸上去像话没有说完。",
+        "range": "398-430",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001017",
+        "bookId": "99000001",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1618660800,
+        "markText": "最后一封没有落款，我却知道是谁。",
+        "range": "388-420",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001018",
+        "bookId": "99000001",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1716033600,
+        "markText": "窗台朝东，上午的光会把字慢慢晒淡。",
+        "range": "398-432",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001019",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "[插图]",
+        "range": "3252-3276",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000001020",
+        "bookId": "99000001",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "   ",
+        "range": "3500-3524",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000001",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "第一封 雨刚停",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "第二封 铁盒",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "第三封 邮票",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "第四封 未寄出",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 105,
+        "chapterIdx": 5,
+        "title": "第五封 回声",
+        "wordCount": 1460,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000001001",
+      "review": {
+        "reviewId": "RV99000001001",
+        "bookId": "99000001",
+        "content": "我后来果然只写了天气，对方却回了很长。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "第一封 雨刚停",
+        "range": "388-426",
+        "type": 1,
+        "abstract": "回信不必写得完整，留下一句天气也算抵达。"
+      }
+    },
+    {
+      "reviewId": "RV99000001002",
+      "review": {
+        "reviewId": "RV99000001002",
+        "bookId": "99000001",
+        "content": "铁盒有一股潮味，我还是把它留在窗台上。",
+        "createTime": 1655640000,
+        "chapterUid": 105,
+        "chapterIdx": 5,
+        "chapterTitle": "第五封 回声",
+        "range": "391-429",
+        "type": 1,
+        "abstract": "信纸受了潮，字却还清楚。"
+      }
+    },
+    {
+      "reviewId": "RV99000001003",
+      "review": {
+        "reviewId": "RV99000001003",
+        "bookId": "99000001",
+        "content": "没寄出的那封，我抄进了笔记里。",
+        "createTime": 1720612800,
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "chapterTitle": "第二封 铁盒",
+        "range": "641-671",
+        "type": 1
+      }
+    },
+    {
+      "reviewId": "RV99000001004",
+      "review": {
+        "reviewId": "RV99000001004",
+        "bookId": "99000001",
+        "content": "回声不是对方的句子，是我自己又读了一遍。",
+        "createTime": 1691755200,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "第三封 邮票",
+        "range": "658-698",
+        "type": 1,
+        "abstract": "有些信写完就可以合上。"
+      }
+    }
+  ]
+}

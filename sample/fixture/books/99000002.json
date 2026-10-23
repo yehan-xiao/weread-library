@@ -1,0 +1,372 @@
+{
+  "bookId": "99000002",
+  "fetchedAt": 1792720800,
+  "info": {
+    "bookId": "99000002",
+    "title": "把一天折成四段",
+    "author": "周予安",
+    "translator": "",
+    "cover": "https://example.invalid/cover/99000002.jpg",
+    "intro": "把一天分成四段来过，并给休息也留下一段。",
+    "category": "个人成长-自我提升",
+    "publisher": "澄明书房",
+    "publishTime": "2021-06-02 00:00:00",
+    "isbn": "978-7-990-00002-0",
+    "newRating": 875,
+    "newRatingCount": 126,
+    "newRatingDetail": {
+      "title": "推荐值",
+      "good": 88,
+      "fair": 25,
+      "poor": 13,
+      "deepV": 6,
+      "recent": 875,
+      "myRating": ""
+    },
+    "wordCount": null,
+    "deepLink": "https://example.invalid/book/99000002",
+    "readerLink": "https://example.invalid/reader/99000002"
+  },
+  "progress": {
+    "bookId": "99000002",
+    "timestamp": 1792720800,
+    "book": {
+      "progress": 86,
+      "readingTime": 31241,
+      "recordReadingTime": 31241,
+      "updateTime": 1760702400,
+      "startReadingTime": 1618142400,
+      "chapterUid": 103,
+      "chapterIdx": 3,
+      "chapterOffset": 0,
+      "isStartReading": 1,
+      "bookVersion": 1,
+      "appId": "sample",
+      "summary": "",
+      "synckey": 1760702400
+    }
+  },
+  "bookmarks": {
+    "synckey": 1760702400,
+    "book": {
+      "bookId": "99000002",
+      "title": "把一天折成四段",
+      "author": "周予安",
+      "cover": "https://example.invalid/cover/99000002.jpg",
+      "format": "epub",
+      "bookStatus": 1,
+      "soldout": 0
+    },
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "上午"
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "下午"
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "黄昏"
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "夜里"
+      }
+    ],
+    "updated": [
+      {
+        "bookmarkId": "BM99000002001",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710072000,
+        "markText": "上午留给要做完的事，下午留给还没想清楚的事。",
+        "range": "124-168",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002002",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1715515200,
+        "markText": "上午的第一件事如果太重，后面整天都会躲着它。",
+        "range": "652-696",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002003",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1655121600,
+        "markText": "我把待办写成能在一盏茶的时间里做完的大小。",
+        "range": "904-946",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002004",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1720958400,
+        "markText": "下午留给还没想清楚的事，比塞进新任务更不容易。",
+        "range": "1169-1215",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002005",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1692100800,
+        "markText": "黄昏适合收尾，不适合开一个新的头。",
+        "range": "1421-1455",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002006",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1726488000,
+        "markText": "夜里的计划看起来都很英勇，早晨会自己缩水。",
+        "range": "1689-1731",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002007",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1760702400,
+        "markText": "我把休息也写进四段里，它才没有被挤掉。",
+        "range": "1947-1985",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002008",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1710763200,
+        "markText": "拖延的时候我其实在做决定，只是不做那个决定。",
+        "range": "2218-2262",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002009",
+        "bookId": "99000002",
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "createTime": 1618833600,
+        "markText": "日历上的空格不是失败，是还没被占用的善意。",
+        "range": "2473-2515",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002010",
+        "bookId": "99000002",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1715342400,
+        "markText": "我试过把一天切得更碎，结果每段都在道歉。",
+        "range": "128-168",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002011",
+        "bookId": "99000002",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1654948800,
+        "markText": "完成一件小事之后，我允许自己把笔放下。",
+        "range": "131-169",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002012",
+        "bookId": "99000002",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1720785600,
+        "markText": "有些安排写出来只是为了让自己看见它不重要。",
+        "range": "130-172",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002013",
+        "bookId": "99000002",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1691928000,
+        "markText": "走路去倒水的那段路，我现在也算进休息。",
+        "range": "381-419",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002014",
+        "bookId": "99000002",
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "createTime": 1726315200,
+        "markText": "周末如果也分成四段，周日晚上会比较轻。",
+        "range": "398-436",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002015",
+        "bookId": "99000002",
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "createTime": 1760529600,
+        "markText": "我不再把没做完的事抄到明天的第一行。",
+        "range": "380-416",
+        "type": 1,
+        "colorStyle": 0
+      },
+      {
+        "bookmarkId": "BM99000002016",
+        "bookId": "99000002",
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "createTime": 1710590400,
+        "markText": "四段之间的缝隙，比段里面更像我自己的时间。",
+        "range": "648-690",
+        "type": 1,
+        "colorStyle": 0
+      }
+    ],
+    "removed": []
+  },
+  "chapters": {
+    "bookId": "99000002",
+    "synckey": 1792720800,
+    "chapterUpdateTime": 1792720800,
+    "chapters": [
+      {
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "title": "上午",
+        "wordCount": 900,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 102,
+        "chapterIdx": 2,
+        "title": "下午",
+        "wordCount": 1040,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "title": "黄昏",
+        "wordCount": 1180,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      },
+      {
+        "chapterUid": 104,
+        "chapterIdx": 4,
+        "title": "夜里",
+        "wordCount": 1320,
+        "level": 1,
+        "paid": 0,
+        "price": 0,
+        "isMPChapter": 0,
+        "updateTime": 1792720800
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewId": "RV99000002001",
+      "review": {
+        "reviewId": "RV99000002001",
+        "bookId": "99000002",
+        "content": "计划写短了，才有地方放进临时改口的话。",
+        "createTime": 1618142400,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "上午",
+        "range": "394-432",
+        "type": 1,
+        "abstract": "计划越短，越容得下当天的变化。"
+      }
+    },
+    {
+      "reviewId": "RV99000002002",
+      "review": {
+        "reviewId": "RV99000002002",
+        "bookId": "99000002",
+        "content": "我把下午留白之后，晚上反而没那么赶。",
+        "createTime": 1618660800,
+        "chapterUid": 103,
+        "chapterIdx": 3,
+        "chapterTitle": "黄昏",
+        "range": "648-684",
+        "type": 1
+      }
+    },
+    {
+      "reviewId": "RV99000002003",
+      "review": {
+        "reviewId": "RV99000002003",
+        "bookId": "99000002",
+        "content": "[插图]",
+        "createTime": 1655121600,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "上午",
+        "range": "2724-2748",
+        "type": 1
+      }
+    },
+    {
+      "reviewId": "RV99000002004",
+      "review": {
+        "reviewId": "RV99000002004",
+        "bookId": "99000002",
+        "content": "",
+        "createTime": 1655121600,
+        "chapterUid": 101,
+        "chapterIdx": 1,
+        "chapterTitle": "上午",
+        "range": "2996-3020",
+        "type": 1
+      }
+    }
+  ]
+}

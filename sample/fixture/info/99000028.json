@@ -1,0 +1,26 @@
+{
+  "bookId": "99000028",
+  "title": "雨天适合整理抽屉",
+  "author": "孟青",
+  "translator": "",
+  "cover": "https://example.invalid/cover/99000028.jpg",
+  "intro": "一本虚构的书，讲雨天适合整理抽屉里的那些小事。",
+  "category": "文学-散文",
+  "publisher": "雨天文艺出版社",
+  "publishTime": "2021-09-09 00:00:00",
+  "isbn": "978-7-990-00028-0",
+  "newRating": 775,
+  "newRatingCount": 300,
+  "newRatingDetail": {
+    "title": "推荐值",
+    "good": 210,
+    "fair": 60,
+    "poor": 30,
+    "deepV": 15,
+    "recent": 775,
+    "myRating": ""
+  },
+  "wordCount": null,
+  "deepLink": "https://example.invalid/book/99000028",
+  "readerLink": "https://example.invalid/reader/99000028"
+}
