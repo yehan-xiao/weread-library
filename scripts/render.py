@@ -10,6 +10,10 @@ from library import PALETTE, color, facts, load, short_title, span, ts
 from pages import card_author
 
 
+SANS = '"PingFang SC","Noto Sans CJK SC","Hiragino Sans GB",sans-serif'
+MUTED, FAINT = "#686b70", "rgba(11,11,11,.42)"
+
+
 def eprint(msg):
     print(msg, file=sys.stderr)
 
@@ -30,11 +34,11 @@ def font_candidates(extra):
     base = [
         extra,
         "/System/Library/Fonts/Supplemental/Songti.ttc",
-        "/System/Library/Fonts/STHeiti Medium.ttc",
-        "/System/Library/Fonts/Supplemental/STHeiti Medium.ttc",
         "/System/Library/Fonts/PingFang.ttc",
         "/System/Library/Fonts/Supplemental/PingFang.ttc",
         "/System/Library/Fonts/Supplemental/Hiragino Sans GB.ttc",
+        "/System/Library/Fonts/STHeiti Medium.ttc",
+        "/System/Library/Fonts/Supplemental/STHeiti Medium.ttc",
     ]
     linux = []
     roots = ["/usr/share/fonts", "/usr/local/share/fonts"]
@@ -46,6 +50,7 @@ def font_candidates(extra):
             for f in fs:
                 if f.lower().endswith((".ttf", ".ttc", ".otf")) and any(k.lower() in f.lower() for k in keys):
                     linux.append(os.path.join(d, f))
+    linux.sort(key=lambda p: (next(i for i, k in enumerate(keys) if k.lower() in os.path.basename(p).lower()), "bold" in p.lower()))
     seen, out = set(), []
     for p in base + linux:
         if p and p not in seen:
@@ -116,7 +121,7 @@ def fit_text_block(draw, text, max_w, make_font, sizes, max_lines):
         font = make_font(size)
         lines = wrap_text(draw, text, font, max_w, max_lines=max_lines)
         consumed = len("".join(lines))
-        if consumed >= len(text):
+        if consumed >= len(text.replace("\n", "")):
             return lines, font, False
         best_lines, best_font, clipped = lines, font, True
     return add_ellipsis(draw, best_lines, best_font, max_w), best_font, clipped
@@ -253,7 +258,7 @@ def plate_html(b, c, n, cover_path, name):
     f0, f1 = span(b)
     ym = lambda t: f"{ts(t).year}.{ts(t).month:02d}"
     sp = ym(f0) if f0 and ym(f0) == ym(f1) else (f"{ym(f0)} — {ym(f1)}" if f0 else "")
-    meta = f'{b["nh"]} 条划线 · {b["nr"]} 条想法 · {b["readingTime"]/3600:.1f} 小时' + (f" · {sp}" if sp else "")
+    meta = f'{b["nh"]} 条划线 · {b["nr"]} 条想法 · {b["readingTime"]/3600:.1f} 小时' + (f' · <span style="white-space:nowrap">{sp}</span>' if sp else "")
     q = c.get("quote", "").strip().rstrip("。")
     title = c.get("short") or short_title(b["title"])
     tsize = 52 if len(title) <= 12 else 40
@@ -270,10 +275,11 @@ body{{background:#f2ece0;font-family:serif;color:#2b2622;position:relative}}
 .author{{font-size:34px;letter-spacing:.1em;color:#6f6556;margin-top:22px}}
 .q{{margin-top:38px;font-size:{30 if len(q) <= 30 else 26}px;line-height:1.7;letter-spacing:.04em;color:#3a322b;border-left:3px solid {col};padding-left:26px}}
 .bottom{{position:absolute;left:560px;right:120px;bottom:92px;display:flex;align-items:flex-end;gap:44px}}
-.meta{{flex:1 1 auto;min-width:0;font-size:29px;letter-spacing:.15em;color:#8a7f6d;line-height:1.35;overflow-wrap:anywhere}}
+.meta,.mark{{font-family:{SANS};color:{MUTED}}}
+.meta{{flex:1 1 auto;min-width:0;font-size:27px;letter-spacing:.04em;line-height:1.45;overflow-wrap:anywhere}}
 .mark{{flex:0 0 auto;display:flex;flex-direction:column;align-items:flex-end;gap:8px}}
-.no{{font-size:27px;letter-spacing:.3em;color:{col}}}
-.wm{{font-size:23px;letter-spacing:.08em;color:rgba(93,83,70,.68)}}
+.no{{font-size:25px;letter-spacing:.16em}}
+.wm{{font-size:21px;letter-spacing:.04em;color:{FAINT}}}
 </style></head><body><div class="frame"></div><div class="frame2"></div>{img}
 <div class="right"><div class="eye">EX LIBRIS · {esc(name)}</div><div class="title">{esc(title)}</div><div class="author">{esc(card_author(b["author"]))}</div>
 <div class="q">「{esc(q)}。」</div></div><div class="bottom"><div class="meta">{meta}</div><div class="mark"><div class="no">No.{n:03d}</div><div class="wm">用 Corvio 整理 · corvio.ai</div></div></div></body></html>'''
@@ -397,8 +403,13 @@ def make_cover_background(Image, ImageColor):
     return img
 
 
+COVER_PIL = dict(eye="#a49b86", title="#ece5d5", meta="#b7ae99", legend="#8f887a", ghost="#5f5a51", note="#8b857a",
+                 board="#4b3a2b", foot="#7d766a", wm="#a59b8d")
+
+
 def render_cover_pil(path, books, f, name, fonts, Image, ImageColor, ImageDraw, ImageFont):
     W, H = 3200, 1800
+    P = COVER_PIL
     img = make_cover_background(Image, ImageColor)
     draw = ImageDraw.Draw(img)
 
@@ -406,7 +417,7 @@ def render_cover_pil(path, books, f, name, fonts, Image, ImageColor, ImageDraw, 
     sans = lambda s: ImageFont.truetype(fonts["sans"], s)
     fy = ts(f["first"]) if f["first"] else None
     meta = (f'{fy.year} 年 {fy.month} 月开馆 · ' if fy else "") + f'{f["shelf"]} 本藏书 · {f["highlights"] + f["thoughts"]} 条划线与想法 · {f["hours"]} 小时'
-    draw.text((192, 160), cover_eye_text(fy), font=sans(28), fill="#a49b86")
+    draw.text((192, 160), cover_eye_text(fy), font=sans(28), fill=P["eye"])
     title_font_size = 128
     title_font = serif(title_font_size)
     title_x, title_y = 192, 220
@@ -414,23 +425,22 @@ def render_cover_pil(path, books, f, name, fonts, Image, ImageColor, ImageDraw, 
     while title_font_size > 82 and draw.textlength(name, font=title_font) > title_max_w:
         title_font_size -= 4
         title_font = serif(title_font_size)
-    draw.text((title_x, title_y), name, font=title_font, fill="#ece5d5")
+    draw.text((title_x, title_y), name, font=title_font, fill=P["title"])
     title_box = draw.textbbox((title_x, title_y), name, font=title_font)
     meta_y = title_box[3] + 38
-    draw.text((192, meta_y), meta, font=serif(38), fill="#b7ae99")
+    draw.text((192, meta_y), meta, font=serif(38), fill=P["meta"])
 
     sel = calc_cover_selection(books)
     used = []
     for b in sel:
         if b["top"] not in used:
             used.append(b["top"])
-    lx, ly = 2100, 182
     for i, cat in enumerate(used):
         row, col = divmod(i, 2)
-        tx = lx + col * 380
-        ty = ly + row * 58
-        draw.text((tx, ty), cat, font=serif(26), fill="#8f887a")
-        draw.rounded_rectangle((tx + 180, ty + 12, tx + 200, ty + 32), radius=3, fill=color(cat))
+        rx = W - 192 - (1 - col) * 220
+        ty = 182 + row * 58
+        draw.text((rx - 40 - draw.textlength(cat, font=serif(26)), ty), cat, font=serif(26), fill=P["legend"])
+        draw.rounded_rectangle((rx - 20, ty + 12, rx, ty + 32), radius=3, fill=color(cat))
 
     shelf_left, shelf_bottom = 192, 1364
     shelf_right = W - 192
@@ -454,7 +464,7 @@ def render_cover_pil(path, books, f, name, fonts, Image, ImageColor, ImageDraw, 
         ghost_start = x
         for gh, gw in ghosts:
             y = shelf_bottom - gh
-            draw.rounded_rectangle((x, y, x + gw, y + gh), radius=3, outline="#5f5a51", width=3)
+            draw.rounded_rectangle((x, y, x + gw, y + gh), radius=3, outline=P["ghost"], width=3)
             x += gw + 8
         ghost_end = x - 8
         note = "书架上还有很多位置"
@@ -462,10 +472,11 @@ def render_cover_pil(path, books, f, name, fonts, Image, ImageColor, ImageDraw, 
         note_w = draw.textlength(note, font=note_font)
         note_center = (ghost_start + ghost_end) / 2
         note_x = int(max(192, min(W - 192 - note_w, note_center - note_w / 2)))
-        draw.text((note_x, 1450), note, font=note_font, fill="#8b857a")
-    draw.rectangle((144, 1366, W - 144, 1410), fill="#4b3a2b")
-    draw.text((192, 1680), "书脊高度 = 你在这本书上花的时间 · 厚度 = 你留下的笔记", font=serif(30), fill="#7d766a")
-    draw.text((2300, 1680), "用 Corvio 整理 · corvio.ai", font=sans(24), fill="#a59b8d")
+        draw.text((note_x, 1450), note, font=note_font, fill=P["note"])
+    draw.rectangle((144, 1366, W - 144, 1410), fill=P["board"])
+    draw.text((192, 1680), "书脊高度 = 你在这本书上花的时间 · 厚度 = 你留下的笔记", font=serif(30), fill=P["foot"])
+    wm = "用 Corvio 整理 · corvio.ai"
+    draw.text((W - 192 - draw.textlength(wm, font=sans(24)), 1680), wm, font=sans(24), fill=P["wm"])
     img.save(path, "JPEG", quality=88)
 
 
@@ -547,8 +558,8 @@ def render_plate_pil(path, b, c, n, cover_path, name, fonts, Image, ImageDraw, I
     quote_bottom = qyy - int(best_font.size * 0.22)
     draw.rectangle((qx, quote_top, qx + 6, quote_bottom), fill=col)
 
-    no_font = sans(58)
-    wm_font = sans(46)
+    no_font = sans(52)
+    wm_font = sans(42)
     no_text = f"No.{n:03d}"
     wm_text = "用 Corvio 整理 · corvio.ai"
     right_margin = 240
@@ -558,7 +569,9 @@ def render_plate_pil(path, b, c, n, cover_path, name, fonts, Image, ImageDraw, I
     right_block_x = int(W - right_margin - right_block_w)
     meta_gap = 72
     meta_limit = max(220, right_block_x - meta_gap - rx)
-    meta_lines, fitted_meta_font, _ = fit_text_block(draw, meta, meta_limit, serif, (58, 54, 50, 46, 42), 2)
+    if sp and draw.textlength(meta, font=sans(54)) > meta_limit:
+        meta = meta.replace(f" · {sp}", f"\n{sp}")
+    meta_lines, fitted_meta_font, _ = fit_text_block(draw, meta, meta_limit, sans, (54, 50, 46, 42), 2)
     no_x = int(W - right_margin - no_w)
     wm_x = int(W - right_margin - wm_w)
     no_y = H - 312
@@ -567,9 +580,9 @@ def render_plate_pil(path, b, c, n, cover_path, name, fonts, Image, ImageDraw, I
     meta_h = meta_lh * len(meta_lines) - int(fitted_meta_font.size * 0.45)
     meta_y0 = wm_y + text_height(draw, wm_font) - meta_h
     for i, line in enumerate(meta_lines):
-        draw.text((rx, meta_y0 + i * meta_lh), line, font=fitted_meta_font, fill="#8a7f6d")
-    draw.text((no_x, no_y), no_text, font=no_font, fill=col)
-    draw.text((wm_x, wm_y), wm_text, font=wm_font, fill="#7f7565")
+        draw.text((rx, meta_y0 + i * meta_lh), line, font=fitted_meta_font, fill=MUTED)
+    draw.text((no_x, no_y), no_text, font=no_font, fill=MUTED)
+    draw.text((wm_x, wm_y), wm_text, font=wm_font, fill="#9a9894")
     img.save(path, "JPEG", quality=88)
 
 
