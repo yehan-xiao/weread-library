@@ -51,6 +51,8 @@ AI 会去翻你的图书馆再回答，用的是你自己划过的句子，而�
 
 ## 给开发者
 
+数据来自微信读书 2026-05-17 发布的[官方 Agent Skill](https://weread.qq.com/r/weread-skills)：脚本只调用官方 Agent Gateway（`https://i.weread.qq.com/api/agent/gateway`），用你扫码拿到的个人 API Key（`wrk-` 开头，存在 `~/.config/weread-library/key`，也可以用环境变量 `WEREAD_API_KEY`）。不用 cookie，也不模拟浏览器。
+
 | 文件 | 作用 |
 | --- | --- |
 | `SKILL.md` | 给 AI 看的完整流程 |
