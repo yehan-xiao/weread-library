@@ -92,7 +92,7 @@ python3 $S/render.py --data $D --work $W --name "<图书馆名>"
 python3 $S/publish.py --data $D --work $W --workspace <工作区 id> --name "<图书馆名>"
 ```
 
-它会上传图片、建总览页和书页、补上书与书之间的链接、写好总览页，5 本书一般 1–2 分钟（开头会打印预计时间）。进度记在 `$W/state.json`，失败了直接重跑同一条命令，不会重复建页。
+它会上传封面、建总览页、一次发布所有书页、写好总览页，10 本书一般半分钟左右（开头会打印预计时间）。进度记在 `$W/state.json`，失败了直接重跑同一条命令，不会重复建页。如果它提示 corvio 版本太旧，由你运行 `npm i -g @corvio/cli@latest`，再重跑。
 
 **MCP 方式**：见文末附录。
 
@@ -144,20 +144,21 @@ python3 $S/publish.py --data $D --work $W
 
 ## 附录：MCP 方式（没有 corvio CLI 时）
 
-第 5 步和第 7 步改成下面这个循环，其余步骤不变。每次 MCP 调用要二三十秒，10 本书大约要 10–15 分钟，开始前告诉用户。
+第 5 步和第 7 步改成下面这个循环，其余步骤不变。新书页是一次发布的，10 本书通常几分钟；同步要逐本读写，新内容多的书会慢一些。
 
 ```bash
 python3 $S/publish.py next --data $D --work $W
 ```
 
 它会打印一个 JSON，告诉你**下一步**做什么：
-- `tool` / `args`：要调用的 Corvio MCP 工具和参数。`args` 里写着 `<某文件 的完整内容>` 的地方，读那个文件，把内容原样填进去。
+- `tool` / `args`：要调用的 Corvio MCP 工具和参数。
 - `then`：调用成功后要依次做的事，通常是运行 `publish.py record ...`，把返回的 id、url、revision 记进 `state.json`。命令里 `<...>` 的部分换成工具实际返回的值。
 - `say`：需要先问用户的事。
 
 做完 `then`，再运行一次 `next`，直到它返回 `"done": true`，然后按第 5 步的「交付」把 `home` 链接给用户。中途中断了也一样：重新运行 `next`，它会从没做完的地方继续。
 
 几点注意：
-- 上传图片时，用 `put.py` 把文件字节直接传到 `prepare_file_upload` 返回的地址，不要把图片读进上下文，也不要打印上传凭证。
+- 上传文件时，用 `put.py` 把文件字节直接传到 `prepare_file_upload` 返回的地址，不要把文件读进上下文，也不要打印上传凭证。
+- 发布书页后，一定要用 `get_publication_operation` 的 `detail=full` 读完整回执，默认回执只列前 5 页。
+- 更新页面时不要传 `change_summary`，否则页面上会多一条评论。
 - 第一次运行 `next` 时，它会让你先记录工作区：`python3 $S/publish.py record --work $W workspace=<id> name="我的图书馆"`。
-- MCP 方式下，书页里的「相关馆藏」只显示书名、不带链接。

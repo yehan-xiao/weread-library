@@ -21,7 +21,10 @@ def rd(path, default):
 
 
 def img(alt, aid):
-    return f"![{alt}](</api/v1/workspace-assets/{aid}/content>)" if aid else ""
+    """aid 是已上传图片的 asset id，或者发布包里的 corvio://image/<key>。"""
+    if not aid:
+        return ""
+    return f"![{alt}]({aid})" if aid.startswith("corvio://") else f"![{alt}](</api/v1/workspace-assets/{aid}/content>)"
 
 
 def dshort(t):
@@ -87,7 +90,7 @@ def book_page(b, c, n, assets, related=None):
         L += [img(f"藏书票 · {title}", assets[f"{n:03d}"]), ""]
     else:
         L += [f"> {quoted(c['quote'])}", "", "*—— 你在这本书里最舍不得的一句*", ""]
-    # 表头不能留空，Corvio 不认空表头的表格，所以拿第一行当表头
+    # 拿第一行当表头：空表头在 Corvio 里会多显示一条灰色空行
     L += ["## 这本书", "", f"| 作者 | {card_author(b['author']) or '—'} |", "| --- | --- |", f"| 分区 | {b['category'].replace('-', ' · ')} |"]
     if c.get("tags"):
         L.append(f"| 关键词 | {' · '.join(c['tags'][:3])} |")
